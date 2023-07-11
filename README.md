@@ -1,2 +1,4 @@
-# terraform-instruqt
-Used in HasiCorp hands-on tutorial
+# hashicat-azure
+Hashicat: A terraform built application for use in Hashicorp workshops.
+
+Includes the "Meow World" website. 😻
