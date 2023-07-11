@@ -53,3 +53,16 @@ Move back to the Explorer.
 - Please explore the Terraform code for the hashicat-azure application.
 
 ### Terminal
+- Explore the Terminal tab where you execute Terraform commands.
+- Copy and paste the following command: terraform
+
+
+Congratulations, you are familiar with the lab environment.
+
+<br/>
+With your Terraform Cloud account
+
+Create a new Terraform Cloud Organization
+Enable 30-day Trial Plan of "Team & Governance" features
+Create a new personal account token
+Create a dedicated workspace
