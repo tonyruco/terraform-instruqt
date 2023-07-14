@@ -1,3 +1,5 @@
+![Alt text](image-4.png)
+![Alt text](image-5.png)
 # Terraform Cloud with Azure
 Terraform Cloud enables infrastructure automation for provisioning, compliance, and management of any cloud, data center, and service.
 
@@ -16,53 +18,28 @@ Hashicat: A terraform built application for use in Hashicorp workshops.
 
 Includes the "Meow World" website. 😻
 
-## Getting Started - Explore the lab
+# Getting Started - Explore the lab
 Get to know your working environment.
 
-### Introduction
-Welcome to your first day as an infrastructure admin at ACME Inc. After employee orientation, you sit down at your workstation and start your workday.
+![Alt text](image-6.png)
+![Alt text](image-7.png)
 
-In your workstation, there are two folders where you interact during the exercise:
+# Terraform Cloud Setup
+Customize your Terraform Cloud resources.
 
-    The hashicat-azure folder contains Terraform code for the application deployment.
+### With your Terraform Cloud account
 
-    The terraform-cloud folder provides utility code to set up your Terraform Cloud resources.
+1. Create a new Terraform Cloud Organization
+2. Enable 30-day Trial Plan of "Team & Governance" features
+3. Create a new personal account token
+4. Create a dedicated workspace
 
-There are other folders that contain utilities for the exercises. We exclude them from the Code Editor for simplicity. You do not need to edit anything in them.
+![Alt text](image-8.png)
+![Alt text](image-9.png)
 
-    The terraform-github folder contains Terraform code to automate management tasks in your GitHub organization.
-    The terraform-api folder contains Terraform code and JSON templates to automate API exercises.
-    The scripts folder contains interactive Bash scripts to assist you in select exercises.
+# Safekeeping Your Terraform State
+Deploy your application to Azure. Execute Terraform commands locally and use Terraform Cloud to store and synchronize Terraform State.
 
-### Code editor
-- Use the Code Editor tab to work with your Terraform code.
-
-- Find the notification for recommended extensions in your code editor.
-
-- Install and explore the extensions for this project.
-
-- Close all the tabs when you are ready to move on.
-Move back to the Explorer.
-
-- Expand the hashicat-azure folder and open the file README.md.
-
-- Add some text at the bottom, then close and re-open the file.
-
-- Note that your code editor is pre-configured with Auto Save to keep your changes automatically.
-
-- Please explore the Terraform code for the hashicat-azure application.
-
-### Terminal
-- Explore the Terminal tab where you execute Terraform commands.
-- Copy and paste the following command: terraform
-
-
-Congratulations, you are familiar with the lab environment.
-
-<br/>
-With your Terraform Cloud account
-
-Create a new Terraform Cloud Organization
-Enable 30-day Trial Plan of "Team & Governance" features
-Create a new personal account token
-Create a dedicated workspace
+![Alt text](image-10.png)
+![Alt text](image-11.png)
+![Alt text](image-12.png)
